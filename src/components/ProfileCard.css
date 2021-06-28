@@ -25,22 +25,23 @@
 }
 
 .lower h2{
-    font: 20px 'Times New Roman';
+    font: 22px 'Times New Roman';
     font-weight: 300;
 }
 
 .lower h3{
-
+    font: 18px 'Times New Roman';
 }
 
 .lower h4{
-
+    font: 16px 'Times New Roman';
 }
 
-.lower h5{
 
+.lower h5{
+    font: 14px 'Times New Roman';
 }
 
 .lower p{
-
+    font: 12px 'Times New Roman';
 }
