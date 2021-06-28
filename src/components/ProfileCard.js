@@ -4,7 +4,7 @@ import Photo from '../markzuck.png'
 
 function ProfileCard() {
 
-const [name, setName] = useState('Mark Zuckerberg')
+const [name, setName] = useState('MARK ZUCKERBERG')
 const [job, setJob] = useState('CEO of Facebook')
 const [school, setSchool] = useState('Harvard')
 const[interests, setInterests] = useState('Interests: Games')
